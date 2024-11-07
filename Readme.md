@@ -4,18 +4,18 @@
 •  Я специализируюсь на backend-разработке, но также имею опыт в фронтенде.
 •  Я работаю над собственными проектами и в команде elum team.
 
-Мои навыки:\n
-•  TypeScript\n
-•  Backend: Node.js, Go lang, MySQL\n
-•  Frontend: React, SolidJs\n
+Мои навыки:<br/>
+•  TypeScript<br/>
+•  Backend: Node.js, Go lang, MySQL<br/>
+•  Frontend: React, SolidJs
 
-Связь:
+Связь:<br/>
 •  https://t.me/xuserz
 
-Несколько хороших показателей:
-•  [Победитель VK Fresh Code 2023](https://vk.com/wall-166562603_6164)
-•  [Победитель VK Fresh Code 2022](https://vk.com/wall-166562603_4800)
-•  [Победитель Хакатона Spring 2023 (победитель в ранге Мидла)](https://vk.com/wall-106352936_3262)
+Несколько хороших показателей:<br/>
+•  [Победитель VK Fresh Code 2023](https://vk.com/wall-166562603_6164)<br/>
+•  [Победитель VK Fresh Code 2022](https://vk.com/wall-166562603_4800)<br/>
+•  [Победитель Хакатона Spring 2023 (победитель в ранге Мидла)](https://vk.com/wall-106352936_3262)<br/>
 •  [Победитель WorldSkills Russia (2 место по Web дизайну и разработке)](https://vk.com/wall-196533858_247)
 
 Сделано в команде:
