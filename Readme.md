@@ -4,13 +4,10 @@
 •  Я специализируюсь на backend-разработке, но также имею опыт в фронтенде.
 •  Я работаю над собственными проектами и в команде elum team.
 
-Мои навыки:
-
-•  TypeScript
-
-•  Backend: Node.js, Go lang, MySQL
-
-•  Frontend: React, SolidJs
+Мои навыки:\n
+•  TypeScript\n
+•  Backend: Node.js, Go lang, MySQL\n
+•  Frontend: React, SolidJs\n
 
 Связь:
 •  https://t.me/xuserz
