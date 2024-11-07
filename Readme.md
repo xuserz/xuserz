@@ -5,8 +5,11 @@
 •  Я работаю над собственными проектами и в команде elum team.
 
 Мои навыки:
+
 •  TypeScript
+
 •  Backend: Node.js, Go lang, MySQL
+
 •  Frontend: React, SolidJs
 
 Связь:
