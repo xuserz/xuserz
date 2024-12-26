@@ -28,7 +28,7 @@
 Мои разработки:
 | Название           | Аудитория | Ссылка                                     | Статус                                           |
 | ------------------ | --------- | ------------------------------------------ | ------------------------------------------------ |
-| Кино на вечер      | > 2.000   | [VK Mini Apps](https://vk.com/app52626613) | <span style="color: #4bb34b">Работает</span> |
+| Кино на вечер      | > 3.000   | [VK Mini Apps](https://vk.com/app52626613) | <span style="color: #4bb34b">Работает</span> |
 | ЧебТур             | > 800     | [VK Mini Apps](https://vk.com/app51775579) | <span style="color: #e64646">Закрыт</span>       |
 | Диктанты           | > 14.000  | [VK Mini Apps](https://vk.com/app51580092) | <span style="color: #e64646">Закрыт</span>       |
 | Обратный отсчёт    | > 102.000 | [VK Mini Apps](https://vk.com/app51423056) | <span style="color: #e64646">Закрыт</span>       |
