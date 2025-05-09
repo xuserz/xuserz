@@ -64,13 +64,13 @@ Welcome to my space, where creativity meets technology! I specialize in **fronte
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://solidjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="SolidJS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" alt="SolidJS" width="40" height="40"/>
   </a>
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>
   <a href="https://www.fastify.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.fastify.io/images/fastify-logo-menu.d68d2c6a6f1786808c365597f768406b.svg" alt="Fastify" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" alt="Fastify" width="40" height="40"/>
   </a>
 </p>
 
