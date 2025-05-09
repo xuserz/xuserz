@@ -1,38 +1,78 @@
-## Привет, я Егор 👋
+## Hey there, I'm Egor 👋
 
-Общая информация:<br/>
-•  Я специализируюсь на frontend-разработке, но также имею опыт в backend.<br/>
-•  Я работаю над собственными проектами и в команде elum team.
+Welcome to my space, where creativity meets technology! I specialize in **frontend development** while leveraging my **backend** expertise. Currently, I'm developing personal projects and collaborating with the dynamic **elum team**.
 
-Мои навыки:<br/>
-•  TypeScript<br/>
-•  Backend: Node.js, Go lang, MySQL<br/>
-•  Frontend: React, SolidJs
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=xuserz&label=Profile%20views&color=ff69b4&style=flat" alt="xuserz" />
+</p>
 
-Связь:<br/>
-•  https://t.me/xuserz
+### 📬 Connect with Me
+- Reach out on [Telegram](https://t.me/xuserz)
 
-Несколько хороших показателей:<br/>
-•  [Победитель VK Fresh Code 2023](https://vk.com/wall-166562603_6164)<br/>
-•  [Победитель VK Fresh Code 2022](https://vk.com/wall-166562603_4800)<br/>
-•  [Победитель Хакатона Spring 2023 (победитель в ранге Мидла)](https://vk.com/wall-106352936_3262)<br/>
-•  [Победитель WorldSkills Russia (2 место по Web дизайну и разработке)](https://vk.com/wall-196533858_247)
+### 🏅 Achievements Worth Celebrating
+- [VK Fresh Code 2023 Winner](https://vk.com/wall-166562603_6164)
+- [VK Fresh Code 2022 Winner](https://vk.com/wall-166562603_4800)
+- [Spring 2023 Hackathon Mid-level Champion](https://vk.com/wall-106352936_3262)
+- [WorldSkills Russia - 2nd place in Web Design & Development](https://vk.com/wall-196533858_247)
 
-Сделано в команде:
-| Название    | Аудитория    | Ссылка                                                                                             | Статус                                       |
-| ----------- | ------------ | -------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| Rating      | > 10.000.000 | [TG Mini Apps](https://t.me/rating/app) \| [TG Channel](https://t.me/rating_community)             | <span style="color: #4bb34b">Работает</span> |
-| Click App   | > 100.000    | [TG Mini Apps](https://t.me/catalog_click_appbot/app) \| [TG Channel](https://t.me/t.me/click1app) | <span style="color: #4bb34b">Работает</span> |
-| Empire Game | > 1.000.000  | [TG Mini Apps](https://t.me/empire_gamebot/app) \| [TG Channel](https://t.me/empiregameapp)        | <span style="color: #4bb34b">Работает</span> |
+### 🛠️ Team Accomplishments
+| Project     | Audience | Links                                                                                         | Status |
+| ----------- | -------- | --------------------------------------------------------------------------------------------- | ------ |
+| Rating      | > 10M    | [TG Mini Apps](https://t.me/rating/app) \| [TG Channel](https://t.me/rating_community)        | 🟢 Live |
+| Click App   | > 100K   | [TG Mini Apps](https://t.me/catalog_click_appbot/app) \| [TG Channel](https://t.me/click1app) | 🟢 Live |
+| Empire Game | > 1M     | [TG Mini Apps](https://t.me/empire_gamebot/app) \| [TG Channel](https://t.me/empiregameapp)   | 🟢 Live |
 
-Мои разработки:
-| Название           | Аудитория | Ссылка                                     | Статус                                           |
-| ------------------ | --------- | ------------------------------------------ | ------------------------------------------------ |
-| Кино на вечер      | > 3.000   | [VK Mini Apps](https://vk.com/app52626613) | <span style="color: #4bb34b">Работает</span> |
-| ЧебТур             | > 800     | [VK Mini Apps](https://vk.com/app51775579) | <span style="color: #e64646">Закрыт</span>       |
-| Диктанты           | > 14.000  | [VK Mini Apps](https://vk.com/app51580092) | <span style="color: #e64646">Закрыт</span>       |
-| Обратный отсчёт    | > 102.000 | [VK Mini Apps](https://vk.com/app51423056) | <span style="color: #e64646">Закрыт</span>       |
-| mini кликер        | > 18.000  | [VK Mini Apps](https://vk.com/app8141329)  | <span style="color: #e64646">Закрыт</span>       |
-| Пастебин           | > 14.000  | [VK Mini Apps](https://vk.com/app8022220)  | <span style="color: #e64646">Закрыт</span>       |
-| Помощник Mini Apps | > 125.000 | [VK Mini Apps](https://vk.com/app8011942)  | <span style="color: #e64646">Закрыт</span>       |
-| Холопы             | > 5.000   | [VK Mini Apps](https://vk.com/app7815820)  | <span style="color: #e64646">Закрыт</span>       |
+### 🎨 Personal Innovations
+| Project          | Audience | Link                                       | Status   |
+| ---------------- | -------- | ------------------------------------------ | -------- |
+| Movie Tonight    | > 3K     | [VK Mini Apps](https://vk.com/app52626613) | 🟢 Live   |
+| ChebTour         | > 800    | [VK Mini Apps](https://vk.com/app51775579) | 🔴 Closed |
+| Dictations       | > 14K    | [VK Mini Apps](https://vk.com/app51580092) | 🔴 Closed |
+| Countdown        | > 102K   | [VK Mini Apps](https://vk.com/app51423056) | 🔴 Closed |
+| Mini Clicker     | > 18K    | [VK Mini Apps](https://vk.com/app8141329)  | 🔴 Closed |
+| Pastebin         | > 14K    | [VK Mini Apps](https://vk.com/app8022220)  | 🔴 Closed |
+| Mini Apps Helper | > 125K   | [VK Mini Apps](https://vk.com/app8011942)  | 🔴 Closed |
+| Serfs            | > 5K     | [VK Mini Apps](https://vk.com/app7815820)  | 🔴 Closed |
+
+### 🚀 Technologies & Tools
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://solidjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="SolidJS" width="40" height="40"/>
+  </a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="https://www.fastify.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.fastify.io/images/fastify-logo-menu.d68d2c6a6f1786808c365597f768406b.svg" alt="Fastify" width="40" height="40"/>
+  </a>
+</p>
+
+![Egor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuserz&show_icons=true&theme=dark&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=xuserz&show_icons=true&theme=dark&locale=en&layout=compact)
