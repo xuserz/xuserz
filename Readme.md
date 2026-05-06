@@ -19,7 +19,7 @@ Welcome to my space, where creativity meets technology! I specialize in **fronte
 | Project     | Audience | Links                                                                                         | Status |
 | ----------- | -------- | --------------------------------------------------------------------------------------------- | ------ |
 | Rating      | > 10M    | [TG Mini Apps](https://t.me/rating/app) \| [TG Channel](https://t.me/rating_community)        | 🔴 Closed |
-| Click App   | > 100K   | [TG Mini Apps](https://t.me/catalog_click_appbot/app) \| [TG Channel](https://t.me/click1app) | 🟢 Live |
+| Click App   | > 100K   | [TG Mini Apps](https://t.me/catalog_click_appbot/app) \| [TG Channel](https://t.me/click1app) | 🔴 Closed|
 | Empire Game | > 1M     | [TG Mini Apps](https://t.me/empire_gamebot/app) \| [TG Channel](https://t.me/empiregameapp)   | 🔴 Closed |
 
 ### 🎨 Personal Innovations
